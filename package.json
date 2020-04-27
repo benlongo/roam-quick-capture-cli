@@ -1,0 +1,13 @@
+{
+  "name": "roam-quick-capture-cli",
+  "version": "0.0.1",
+  "description": "Create roam quick capture entries from the command line.",
+  "bin": "cli.js",
+  "author": "Ben Longo",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "puppeteer": "^3.0.1"
+  }
+}
